@@ -50,8 +50,8 @@ Conecte-se comigo nas minhas redes sociais:
 ## 🏆 Destaques  
 
 - Participação em competições internacionais de robótica.  
-- Contribuições no **LIA UFSC** e **EJEC**.  
-- Representação da **Guiné-Bissau** em eventos globais.  
+- Membro da **LIA UFSC** e **EJEC**.  
+- Representação da **Guiné-Bissau** em eventos globais. 
 
 ---
 
